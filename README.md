@@ -1,7 +1,7 @@
 entangle-swing
 ==============
 
-Entangle support for Java Swing
+Entangle support for Java Swing.
 
 # License
 
