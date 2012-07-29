@@ -57,6 +57,10 @@
 		<url>https://github.com/markhobson/entangle-swing/issues</url>
 	</issueManagement>
 	
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	
 	<dependencies>
 	
 		<dependency>
