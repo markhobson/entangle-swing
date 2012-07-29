@@ -10,7 +10,6 @@ import javax.swing.text.JTextComponent;
 import org.hobsoft.entangle.Observable;
 import org.hobsoft.entangle.swing.SwingObservables.JTextComponentObservables;
 
-
 /**
  * Default {@code JTextComponentObservables} implementation.
  * 

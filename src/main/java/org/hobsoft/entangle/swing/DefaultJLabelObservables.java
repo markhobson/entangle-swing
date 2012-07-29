@@ -11,7 +11,6 @@ import org.hobsoft.entangle.Observable;
 import org.hobsoft.entangle.Observables;
 import org.hobsoft.entangle.swing.SwingObservables.JLabelObservables;
 
-
 /**
  * Default {@code JLabelObservables} implementation.
  * 

@@ -14,7 +14,6 @@ import org.hobsoft.entangle.Observable;
 import org.hobsoft.entangle.Observables;
 import org.hobsoft.entangle.swing.SwingObservables.JComponentObservables;
 
-
 /**
  * Default {@code JComponentObservables} implementation.
  * 
