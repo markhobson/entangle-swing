@@ -13,18 +13,17 @@
  */
 package org.hobsoft.entangle.swing;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
-
 import java.awt.Color;
 
 import javax.swing.BorderFactory;
 import javax.swing.JComponent;
 import javax.swing.border.Border;
 
-import org.hobsoft.entangle.swing.DefaultJComponentObservables;
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
 
 /**
  * Tests {@code DefaultJComponentObservables}.
