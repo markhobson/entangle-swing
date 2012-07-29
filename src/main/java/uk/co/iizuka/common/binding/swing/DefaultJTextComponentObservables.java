@@ -32,7 +32,6 @@ class DefaultJTextComponentObservables extends DefaultJComponentObservables impl
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public Observable<String> text()
 	{
 		return new JTextComponentTextObservable(getComponent());

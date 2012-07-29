@@ -45,7 +45,6 @@ final class JTextComponentTextObservable implements Observable<String>
 		/**
 		 * {@inheritDoc}
 		 */
-		@Override
 		public void insertUpdate(DocumentEvent event)
 		{
 			fireValueChanged(event);
@@ -54,7 +53,6 @@ final class JTextComponentTextObservable implements Observable<String>
 		/**
 		 * {@inheritDoc}
 		 */
-		@Override
 		public void changedUpdate(DocumentEvent event)
 		{
 			fireValueChanged(event);
@@ -63,7 +61,6 @@ final class JTextComponentTextObservable implements Observable<String>
 		/**
 		 * {@inheritDoc}
 		 */
-		@Override
 		public void removeUpdate(DocumentEvent event)
 		{
 			fireValueChanged(event);
@@ -125,7 +122,6 @@ final class JTextComponentTextObservable implements Observable<String>
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public void addObservableListener(ObservableListener<String> listener)
 	{
 		DocumentListener adapter = new ObservableListenerAdapter(listener);
@@ -139,7 +135,6 @@ final class JTextComponentTextObservable implements Observable<String>
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public void removeObservableListener(ObservableListener<String> listener)
 	{
 		if (adaptersByListener.containsKey(listener))
@@ -153,7 +148,6 @@ final class JTextComponentTextObservable implements Observable<String>
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public String getValue()
 	{
 		return textComponent.getText();
@@ -162,7 +156,6 @@ final class JTextComponentTextObservable implements Observable<String>
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public void setValue(String value)
 	{
 		// prevents setText being called within itself when document write locked

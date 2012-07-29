@@ -40,7 +40,6 @@ class DefaultJComponentObservables implements JComponentObservables
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public Observable<Border> border()
 	{
 		return Observables.bean(component).property("border", Border.class);
@@ -49,7 +48,6 @@ class DefaultJComponentObservables implements JComponentObservables
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public Observable<Boolean> enabled()
 	{
 		return Observables.bean(component).property("enabled", boolean.class);
@@ -58,7 +56,6 @@ class DefaultJComponentObservables implements JComponentObservables
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public Observable<Color> foreground()
 	{
 		return Observables.bean(component).property("foreground", Color.class);
@@ -67,7 +64,6 @@ class DefaultJComponentObservables implements JComponentObservables
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public Observable<Color> background()
 	{
 		return Observables.bean(component).property("background", Color.class);

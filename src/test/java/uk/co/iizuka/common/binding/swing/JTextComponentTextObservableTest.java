@@ -78,7 +78,6 @@ public class JTextComponentTextObservableTest
 	{
 		observable.addObservableListener(new ObservableListener<String>()
 		{
-			@Override
 			public void valueChanged(ObservableEvent<String> event)
 			{
 				observable.setValue("y");

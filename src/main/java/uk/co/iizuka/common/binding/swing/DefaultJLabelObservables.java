@@ -33,7 +33,6 @@ class DefaultJLabelObservables extends DefaultJComponentObservables implements J
 	/**
 	 * {@inheritDoc}
 	 */
-	@Override
 	public Observable<String> text()
 	{
 		return Observables.bean(getComponent()).string("text");
