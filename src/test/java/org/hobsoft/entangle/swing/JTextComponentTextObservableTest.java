@@ -33,7 +33,6 @@ import org.junit.runner.RunWith;
  * Tests {@code JTextComponentTextObservable}.
  * 
  * @author Mark Hobson
- * @version $Id: JTextComponentTextObservableTest.java 97730 2012-01-11 16:19:13Z mark@IIZUKA.CO.UK $
  * @see JTextComponentTextObservable
  */
 @RunWith(JMock.class)

@@ -26,7 +26,6 @@ import org.hobsoft.entangle.Observable;
  * 
  * 
  * @author Mark Hobson
- * @version $Id: SwingObservables.java 97641 2012-01-06 18:23:27Z mark@IIZUKA.CO.UK $
  */
 public final class SwingObservables
 {

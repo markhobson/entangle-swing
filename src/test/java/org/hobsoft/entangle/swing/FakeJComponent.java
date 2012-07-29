@@ -19,7 +19,6 @@ import javax.swing.JComponent;
  * 
  * 
  * @author Mark Hobson
- * @version $Id: FakeJComponent.java 97627 2012-01-06 13:40:11Z mark@IIZUKA.CO.UK $
  */
 public class FakeJComponent extends JComponent
 {

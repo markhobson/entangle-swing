@@ -26,7 +26,6 @@ import org.hobsoft.entangle.swing.SwingObservables.JComponentObservables;
  * Default {@code JComponentObservables} implementation.
  * 
  * @author Mark Hobson
- * @version $Id: DefaultJComponentObservables.java 97639 2012-01-06 17:54:52Z mark@IIZUKA.CO.UK $
  * @see JComponentObservables
  */
 class DefaultJComponentObservables implements JComponentObservables

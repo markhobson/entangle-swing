@@ -22,7 +22,6 @@ import org.hobsoft.entangle.swing.SwingObservables.JTextComponentObservables;
  * Default {@code JTextComponentObservables} implementation.
  * 
  * @author Mark Hobson
- * @version $Id: DefaultJTextComponentObservables.java 97624 2012-01-06 11:05:06Z mark@IIZUKA.CO.UK $
  * @see JTextComponentObservables
  */
 class DefaultJTextComponentObservables extends DefaultJComponentObservables implements JTextComponentObservables

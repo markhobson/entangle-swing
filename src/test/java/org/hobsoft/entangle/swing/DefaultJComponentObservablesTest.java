@@ -30,7 +30,6 @@ import org.junit.Test;
  * Tests {@code DefaultJComponentObservables}.
  * 
  * @author Mark Hobson
- * @version $Id: DefaultJComponentObservablesTest.java 97639 2012-01-06 17:54:52Z mark@IIZUKA.CO.UK $
  * @see DefaultJComponentObservables
  */
 public class DefaultJComponentObservablesTest

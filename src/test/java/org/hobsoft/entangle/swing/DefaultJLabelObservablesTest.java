@@ -25,7 +25,6 @@ import org.junit.Test;
  * Tests {@code DefaultJLabelObservables}.
  * 
  * @author Mark Hobson
- * @version $Id: DefaultJLabelObservablesTest.java 97628 2012-01-06 13:42:08Z mark@IIZUKA.CO.UK $
  * @see DefaultJLabelObservables
  */
 public class DefaultJLabelObservablesTest

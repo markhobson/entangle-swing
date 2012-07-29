@@ -31,7 +31,6 @@ import org.hobsoft.entangle.ObservableListener;
  * 
  * 
  * @author Mark Hobson
- * @version $Id: JTextComponentTextObservable.java 97637 2012-01-06 16:05:07Z mark@IIZUKA.CO.UK $
  */
 final class JTextComponentTextObservable implements Observable<String>
 {

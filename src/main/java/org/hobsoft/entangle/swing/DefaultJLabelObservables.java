@@ -23,7 +23,6 @@ import org.hobsoft.entangle.swing.SwingObservables.JLabelObservables;
  * Default {@code JLabelObservables} implementation.
  * 
  * @author Mark Hobson
- * @version $Id: DefaultJLabelObservables.java 97624 2012-01-06 11:05:06Z mark@IIZUKA.CO.UK $
  * @see JLabelObservables
  */
 class DefaultJLabelObservables extends DefaultJComponentObservables implements JLabelObservables
