@@ -3,7 +3,7 @@
  * 
  * (c) 2011 IIZUKA Software Technologies Ltd.  All rights reserved.
  */
-package uk.co.iizuka.common.binding.swing.test;
+package org.hobsoft.entangle.swing.test;
 
 import org.hobsoft.entangle.Observable;
 import org.hobsoft.entangle.ObservableEvent;

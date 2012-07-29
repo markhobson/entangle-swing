@@ -3,7 +3,7 @@
  * 
  * (c) 2012 IIZUKA Software Technologies Ltd.  All rights reserved.
  */
-package uk.co.iizuka.common.binding.swing;
+package org.hobsoft.entangle.swing;
 
 import java.awt.Color;
 
@@ -12,8 +12,8 @@ import javax.swing.border.Border;
 
 import org.hobsoft.entangle.Observable;
 import org.hobsoft.entangle.Observables;
+import org.hobsoft.entangle.swing.SwingObservables.JComponentObservables;
 
-import uk.co.iizuka.common.binding.swing.SwingObservables.JComponentObservables;
 
 /**
  * Default {@code JComponentObservables} implementation.

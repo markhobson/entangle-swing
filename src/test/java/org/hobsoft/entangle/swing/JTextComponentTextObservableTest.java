@@ -3,16 +3,17 @@
  * 
  * (c) 2011 IIZUKA Software Technologies Ltd.  All rights reserved.
  */
-package uk.co.iizuka.common.binding.swing;
+package org.hobsoft.entangle.swing;
 
+import static org.hobsoft.entangle.swing.test.TestObservableListeners.mockObservableListenerWithValueChanged;
 import static org.junit.Assert.assertEquals;
-import static uk.co.iizuka.common.binding.swing.test.TestObservableListeners.mockObservableListenerWithValueChanged;
 
 import javax.swing.JTextField;
 import javax.swing.text.JTextComponent;
 
 import org.hobsoft.entangle.ObservableEvent;
 import org.hobsoft.entangle.ObservableListener;
+import org.hobsoft.entangle.swing.JTextComponentTextObservable;
 import org.jmock.Mockery;
 import org.jmock.integration.junit4.JMock;
 import org.jmock.integration.junit4.JUnit4Mockery;

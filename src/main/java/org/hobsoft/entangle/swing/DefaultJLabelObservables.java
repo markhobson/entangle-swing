@@ -3,14 +3,14 @@
  * 
  * (c) 2012 IIZUKA Software Technologies Ltd.  All rights reserved.
  */
-package uk.co.iizuka.common.binding.swing;
+package org.hobsoft.entangle.swing;
 
 import javax.swing.JLabel;
 
 import org.hobsoft.entangle.Observable;
 import org.hobsoft.entangle.Observables;
+import org.hobsoft.entangle.swing.SwingObservables.JLabelObservables;
 
-import uk.co.iizuka.common.binding.swing.SwingObservables.JLabelObservables;
 
 /**
  * Default {@code JLabelObservables} implementation.

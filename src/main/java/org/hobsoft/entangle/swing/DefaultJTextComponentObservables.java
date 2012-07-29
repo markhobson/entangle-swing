@@ -3,13 +3,13 @@
  * 
  * (c) 2012 IIZUKA Software Technologies Ltd.  All rights reserved.
  */
-package uk.co.iizuka.common.binding.swing;
+package org.hobsoft.entangle.swing;
 
 import javax.swing.text.JTextComponent;
 
 import org.hobsoft.entangle.Observable;
+import org.hobsoft.entangle.swing.SwingObservables.JTextComponentObservables;
 
-import uk.co.iizuka.common.binding.swing.SwingObservables.JTextComponentObservables;
 
 /**
  * Default {@code JTextComponentObservables} implementation.

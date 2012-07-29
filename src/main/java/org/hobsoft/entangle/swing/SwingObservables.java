@@ -3,7 +3,7 @@
  * 
  * (c) 2011 IIZUKA Software Technologies Ltd.  All rights reserved.
  */
-package uk.co.iizuka.common.binding.swing;
+package org.hobsoft.entangle.swing;
 
 import java.awt.Color;
 

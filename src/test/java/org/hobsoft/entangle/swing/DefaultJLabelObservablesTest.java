@@ -3,12 +3,13 @@
  * 
  * (c) 2012 IIZUKA Software Technologies Ltd.  All rights reserved.
  */
-package uk.co.iizuka.common.binding.swing;
+package org.hobsoft.entangle.swing;
 
 import static org.junit.Assert.assertEquals;
 
 import javax.swing.JLabel;
 
+import org.hobsoft.entangle.swing.DefaultJLabelObservables;
 import org.junit.Before;
 import org.junit.Test;
 
