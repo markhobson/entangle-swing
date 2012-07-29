@@ -7,8 +7,9 @@ package uk.co.iizuka.common.binding.swing;
 
 import javax.swing.JLabel;
 
-import uk.co.iizuka.common.binding.Observable;
-import uk.co.iizuka.common.binding.Observables;
+import org.hobsoft.entangle.Observable;
+import org.hobsoft.entangle.Observables;
+
 import uk.co.iizuka.common.binding.swing.SwingObservables.JLabelObservables;
 
 /**

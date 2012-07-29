@@ -10,8 +10,9 @@ import java.awt.Color;
 import javax.swing.JComponent;
 import javax.swing.border.Border;
 
-import uk.co.iizuka.common.binding.Observable;
-import uk.co.iizuka.common.binding.Observables;
+import org.hobsoft.entangle.Observable;
+import org.hobsoft.entangle.Observables;
+
 import uk.co.iizuka.common.binding.swing.SwingObservables.JComponentObservables;
 
 /**

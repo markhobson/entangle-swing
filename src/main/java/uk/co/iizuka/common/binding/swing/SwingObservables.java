@@ -12,7 +12,7 @@ import javax.swing.JLabel;
 import javax.swing.border.Border;
 import javax.swing.text.JTextComponent;
 
-import uk.co.iizuka.common.binding.Observable;
+import org.hobsoft.entangle.Observable;
 
 /**
  * 

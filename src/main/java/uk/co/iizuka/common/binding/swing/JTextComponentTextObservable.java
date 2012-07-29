@@ -15,9 +15,9 @@ import javax.swing.text.BadLocationException;
 import javax.swing.text.Document;
 import javax.swing.text.JTextComponent;
 
-import uk.co.iizuka.common.binding.Observable;
-import uk.co.iizuka.common.binding.ObservableEvent;
-import uk.co.iizuka.common.binding.ObservableListener;
+import org.hobsoft.entangle.Observable;
+import org.hobsoft.entangle.ObservableEvent;
+import org.hobsoft.entangle.ObservableListener;
 
 /**
  * 

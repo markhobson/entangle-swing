@@ -7,7 +7,8 @@ package uk.co.iizuka.common.binding.swing;
 
 import javax.swing.text.JTextComponent;
 
-import uk.co.iizuka.common.binding.Observable;
+import org.hobsoft.entangle.Observable;
+
 import uk.co.iizuka.common.binding.swing.SwingObservables.JTextComponentObservables;
 
 /**

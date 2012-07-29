@@ -11,15 +11,14 @@ import static uk.co.iizuka.common.binding.swing.test.TestObservableListeners.moc
 import javax.swing.JTextField;
 import javax.swing.text.JTextComponent;
 
+import org.hobsoft.entangle.ObservableEvent;
+import org.hobsoft.entangle.ObservableListener;
 import org.jmock.Mockery;
 import org.jmock.integration.junit4.JMock;
 import org.jmock.integration.junit4.JUnit4Mockery;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-
-import uk.co.iizuka.common.binding.ObservableEvent;
-import uk.co.iizuka.common.binding.ObservableListener;
 
 /**
  * Tests {@code JTextComponentTextObservable}.
