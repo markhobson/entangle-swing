@@ -22,6 +22,9 @@
 	<version>0.1.0-SNAPSHOT</version>
 	
 	<name>Entangle Swing Integration</name>
+	<description>Entangle support for Java Swing</description>
+	<url>https://github.com/markhobson/entangle-swing</url>
+	<inceptionYear>2011</inceptionYear>
 	
 	<licenses>
 		<license>
@@ -31,11 +34,28 @@
 		</license>
 	</licenses>
 
+	<developers>
+		<developer>
+			<id>markhobson</id>
+			<name>Mark Hobson</name>
+			<email>markhobson@gmail.com</email>
+			<roles>
+				<role>Project Lead</role>
+			</roles>
+			<timezone>0</timezone>
+		</developer>
+	</developers>
+	
 	<scm>
 		<connection>scm:git:git@github.com:markhobson/entangle-swing.git</connection>
 		<developerConnection>scm:git:git@github.com:markhobson/entangle-swing.git</developerConnection>
 		<url>https://github.com/markhobson/entangle-swing.git</url>
 	</scm>
+	
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/markhobson/entangle-swing/issues</url>
+	</issueManagement>
 	
 	<dependencies>
 	
