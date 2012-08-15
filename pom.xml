@@ -62,4 +62,12 @@
 	
 	</dependencies>
 
+	<distributionManagement>
+		<site>
+			<id>github-site</id>
+			<name>Entangle Swing Maven Site</name>
+			<url>gitsite:git@github.com/markhobson/entangle-swing.git</url>
+		</site>
+	</distributionManagement>
+	
 </project>
