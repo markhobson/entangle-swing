@@ -81,9 +81,9 @@
 
 	<distributionManagement>
 		<site>
-			<id>github-site</id>
+			<id>site</id>
 			<name>Entangle Swing Maven Site</name>
-			<url>gitsite:git@github.com/markhobson/entangle-swing.git</url>
+			<url>scm:git:git@github.com:markhobson/entangle-swing.git</url>
 		</site>
 	</distributionManagement>
 	
