@@ -7,6 +7,7 @@ Entangle support for Java Swing.
 * [Javadocs](http://markhobson.github.com/entangle-swing/apidocs/)
 * [Mailing List](https://groups.google.com/d/forum/entangle)
 
-# License
+License
+-------
 
 * [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
