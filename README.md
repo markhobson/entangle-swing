@@ -1,4 +1,4 @@
-entangle-swing
+Entangle Swing
 ==============
 
 Entangle support for Java Swing.
