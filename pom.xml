@@ -37,6 +37,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:markhobson/entangle-swing.git</connection>
 		<developerConnection>scm:git:git@github.com:markhobson/entangle-swing.git</developerConnection>
+		<tag>HEAD</tag>
 		<url>https://github.com/markhobson/entangle-swing</url>
 	</scm>
 	
